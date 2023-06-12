@@ -1,7 +1,11 @@
 # Used
+• MVVM Design Pattern
+
 • CollectionView
 
-• TableView Xib used for UI Design
+• TableView 
+
 • Xib used for UI Design
-• MVVM Design Pattern
+
+
 
