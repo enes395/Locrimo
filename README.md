@@ -1,4 +1,7 @@
-# Locrimo
-MVVM Design Pattern
-Xib used for UI Design
-adf
+# Used
+• CollectionView
+
+• TableView Xib used for UI Design
+• Xib used for UI Design
+• MVVM Design Pattern
+
