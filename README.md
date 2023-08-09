@@ -1,4 +1,8 @@
 # Used
+• Protocol Oriented Programming 
+
+• Dependency Injection 
+
 • MVVM Design Pattern
 
 • CollectionView
