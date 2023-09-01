@@ -1,6 +1,8 @@
 # Used
 • Protocol Oriented Programming 
 
+• Delegation
+
 • Dependency Injection 
 
 • MVVM Design Pattern
